@@ -19,7 +19,9 @@ In this project, I performed an exploratory churn analysis on the Databel Teleco
 
 Source: [Databel Telecom Customer Churn Dataset](https://www.kaggle.com/datasets/muftau/investigating-customer-churn)
 
-The dataset contains ~7,000 customer records with demographic, account, and usage details.
+The dataset contains 6,687 customer records with customer status, demographic, contract information, and subscription details.
+
+The metadata about this dataset is stored in the file `metadata.xlsx`.
 
 ## Methodology
 
